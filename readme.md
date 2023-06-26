@@ -6,6 +6,9 @@
 
 - <a href="https://weather-webapp-sable.vercel.app/" target="_blank">Deployed Link</a>
 
+<img src="assets/1.png" width="300px" height=auto>
+<img src="assets/2.png" width="300px" height=auto>
+
 ## Installation
 
 1. Clone the repository:
