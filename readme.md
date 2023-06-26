@@ -4,7 +4,7 @@
 - It takes city name as input, passes it as a parameter to OpenWeather API endpoint.
 - Shows the retrived data to the user.
 
-- <a href="" target="_blank">Deployed Link</a>
+- <a href="https://weather-webapp-sable.vercel.app/" target="_blank">Deployed Link</a>
 
 ## Installation
 
